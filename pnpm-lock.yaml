@@ -574,8 +574,8 @@ packages:
       color-convert: 1.9.3
     dev: true
 
-  /babel-plugin-jsx-dom-expressions/0.35.8_@babel+core@7.20.7:
-    resolution: {integrity: sha512-IzObXlDFA80wyEW/IUtCxaUAoJnq4CTpvcvC1xBZBlMpJDwmK6mIYnTZ9xgFyGCrAjC0LxVcqeDQx31gJJ4UJQ==}
+  /babel-plugin-jsx-dom-expressions/0.35.9_@babel+core@7.20.7:
+    resolution: {integrity: sha512-YXb+I4dej5E94bzPzPBECUT5Q5vuSQJzsq1NgW8fe4gsgg6vcy6c6VqixgtY0UU8udKTc1Ls5CmgaFDj2fO9lA==}
     peerDependencies:
       '@babel/core': ^7.0.0
     dependencies:
@@ -592,7 +592,7 @@ packages:
       '@babel/core': ^7.0.0
     dependencies:
       '@babel/core': 7.20.7
-      babel-plugin-jsx-dom-expressions: 0.35.8_@babel+core@7.20.7
+      babel-plugin-jsx-dom-expressions: 0.35.9_@babel+core@7.20.7
     dev: true
 
   /browserslist/4.21.4:
