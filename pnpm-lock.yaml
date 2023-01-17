@@ -585,7 +585,7 @@ packages:
       '@babel/plugin-syntax-jsx': 7.18.6_@babel+core@7.20.12
       '@babel/types': 7.20.7
       html-entities: 2.3.3
-      validate-html-nesting: 1.1.0
+      validate-html-nesting: 1.2.0
     dev: true
 
   /babel-preset-solid/1.6.9_@babel+core@7.20.12:
@@ -880,8 +880,8 @@ packages:
       picocolors: 1.0.0
     dev: true
 
-  /validate-html-nesting/1.1.0:
-    resolution: {integrity: sha512-m+tQ7mVs2AMXRP0hFFQzmdG2BRMyLJtH39AtCpJDhiHM4oL6eccFnNhnNnwrBRNlPr78Opgh3CC9am2bnaJ2Tg==}
+  /validate-html-nesting/1.2.0:
+    resolution: {integrity: sha512-sI65QUd3T/e5wbQkdPKjikFsIVLPIaOQK+9uowPp6/k609SN8hs5eqBLrnN5DeW9Kd932Q4Imo0fzK2dxoOsCA==}
     dev: true
 
   /vite-plugin-solid/2.5.0_solid-js@1.6.9+vite@4.0.4:
