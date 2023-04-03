@@ -615,8 +615,8 @@ packages:
       validate-html-nesting: 1.2.1
     dev: true
 
-  /babel-preset-solid@1.7.0(@babel/core@7.21.4):
-    resolution: {integrity: sha512-EjD3lAgicteKrQzFhMtfgEEdPKHsDtGLyJEGmky3kLH952wZys5sj1sTuO+JB6QSfUq1hbJCBvlB5aCIvdf4NQ==}
+  /babel-preset-solid@1.7.1(@babel/core@7.21.4):
+    resolution: {integrity: sha512-a4TSLrEKIscsTIEBVo9fuWSdBQjEBrkQmNzIvXd26MO1Zyqdts+VEMy2k/OhfH0/L9ZY0ELLrTcij1IMDxVldQ==}
     peerDependencies:
       '@babel/core': ^7.0.0
     dependencies:
@@ -919,7 +919,7 @@ packages:
     dependencies:
       '@babel/core': 7.21.4
       '@babel/preset-typescript': 7.21.4(@babel/core@7.21.4)
-      babel-preset-solid: 1.7.0(@babel/core@7.21.4)
+      babel-preset-solid: 1.7.1(@babel/core@7.21.4)
       merge-anything: 5.1.4
       solid-js: 1.6.10
       solid-refresh: 0.4.3(solid-js@1.6.10)
