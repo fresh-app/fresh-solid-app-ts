@@ -602,8 +602,8 @@ packages:
       color-convert: 1.9.3
     dev: true
 
-  /babel-plugin-jsx-dom-expressions@0.36.4(@babel/core@7.21.4):
-    resolution: {integrity: sha512-gP8GduyfRfCDyFJ2Jgz7N3mxnJpu+nLIeTo6vF0hMZL8QPc1AdQaipoNm9wxLBqwYq16ICkoag4sLYRknh+tLw==}
+  /babel-plugin-jsx-dom-expressions@0.36.6(@babel/core@7.21.4):
+    resolution: {integrity: sha512-O7R0wl6uROhswAcg12sq/HuMQZIhXgjSgkQB83lu5hQWxVMcxZSX0avYXR0PGZxcK6zX6ke7Du1d6rwy+BssWg==}
     peerDependencies:
       '@babel/core': ^7.20.12
     dependencies:
@@ -621,7 +621,7 @@ packages:
       '@babel/core': ^7.0.0
     dependencies:
       '@babel/core': 7.21.4
-      babel-plugin-jsx-dom-expressions: 0.36.4(@babel/core@7.21.4)
+      babel-plugin-jsx-dom-expressions: 0.36.6(@babel/core@7.21.4)
     dev: true
 
   /browserslist@4.21.5:
@@ -630,7 +630,7 @@ packages:
     hasBin: true
     dependencies:
       caniuse-lite: 1.0.30001473
-      electron-to-chromium: 1.4.348
+      electron-to-chromium: 1.4.349
       node-releases: 2.0.10
       update-browserslist-db: 1.0.10(browserslist@4.21.5)
     dev: true
@@ -677,8 +677,8 @@ packages:
       ms: 2.1.2
     dev: true
 
-  /electron-to-chromium@1.4.348:
-    resolution: {integrity: sha512-gM7TdwuG3amns/1rlgxMbeeyNoBFPa+4Uu0c7FeROWh4qWmvSOnvcslKmWy51ggLKZ2n/F/4i2HJ+PVNxH9uCQ==}
+  /electron-to-chromium@1.4.349:
+    resolution: {integrity: sha512-34LBfVDiL6byWorSmQOPwq4gD5wpN8Mhh5yPGQr67FbcxsfUS0BDJP9y6RykSgeWVUfSkN/2dChywnsrmKVyUg==}
     dev: true
 
   /esbuild@0.16.17:
