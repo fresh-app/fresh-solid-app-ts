@@ -602,8 +602,8 @@ packages:
       color-convert: 1.9.3
     dev: true
 
-  /babel-plugin-jsx-dom-expressions@0.36.6(@babel/core@7.21.4):
-    resolution: {integrity: sha512-O7R0wl6uROhswAcg12sq/HuMQZIhXgjSgkQB83lu5hQWxVMcxZSX0avYXR0PGZxcK6zX6ke7Du1d6rwy+BssWg==}
+  /babel-plugin-jsx-dom-expressions@0.36.7(@babel/core@7.21.4):
+    resolution: {integrity: sha512-SqrwOKvAO3jM8CJ+FdPsldSFS1smPJvI1VyjsQQRU4VWjvIUgNFL8e1Ze0Z8IgsuNEbsRLUu/y3PDOQBFsarwA==}
     peerDependencies:
       '@babel/core': ^7.20.12
     dependencies:
@@ -615,13 +615,13 @@ packages:
       validate-html-nesting: 1.2.1
     dev: true
 
-  /babel-preset-solid@1.7.1(@babel/core@7.21.4):
-    resolution: {integrity: sha512-a4TSLrEKIscsTIEBVo9fuWSdBQjEBrkQmNzIvXd26MO1Zyqdts+VEMy2k/OhfH0/L9ZY0ELLrTcij1IMDxVldQ==}
+  /babel-preset-solid@1.7.2(@babel/core@7.21.4):
+    resolution: {integrity: sha512-2SVcLTk6RXgXv3ebbm4iKiAPTPhQ/+3zd1KUOnMq/qBMr9ZshzdtIS4dMr9orWPHwDTdvJ2ZAadyGf3ZfTwWjg==}
     peerDependencies:
       '@babel/core': ^7.0.0
     dependencies:
       '@babel/core': 7.21.4
-      babel-plugin-jsx-dom-expressions: 0.36.6(@babel/core@7.21.4)
+      babel-plugin-jsx-dom-expressions: 0.36.7(@babel/core@7.21.4)
     dev: true
 
   /browserslist@4.21.5:
@@ -629,14 +629,14 @@ packages:
     engines: {node: ^6 || ^7 || ^8 || ^9 || ^10 || ^11 || ^12 || >=13.7}
     hasBin: true
     dependencies:
-      caniuse-lite: 1.0.30001473
-      electron-to-chromium: 1.4.349
+      caniuse-lite: 1.0.30001474
+      electron-to-chromium: 1.4.352
       node-releases: 2.0.10
       update-browserslist-db: 1.0.10(browserslist@4.21.5)
     dev: true
 
-  /caniuse-lite@1.0.30001473:
-    resolution: {integrity: sha512-ewDad7+D2vlyy+E4UJuVfiBsU69IL+8oVmTuZnH5Q6CIUbxNfI50uVpRHbUPDD6SUaN2o0Lh4DhTrvLG/Tn1yg==}
+  /caniuse-lite@1.0.30001474:
+    resolution: {integrity: sha512-iaIZ8gVrWfemh5DG3T9/YqarVZoYf0r188IjaGwx68j4Pf0SGY6CQkmJUIE+NZHkkecQGohzXmBGEwWDr9aM3Q==}
     dev: true
 
   /chalk@2.4.2:
@@ -677,8 +677,8 @@ packages:
       ms: 2.1.2
     dev: true
 
-  /electron-to-chromium@1.4.349:
-    resolution: {integrity: sha512-34LBfVDiL6byWorSmQOPwq4gD5wpN8Mhh5yPGQr67FbcxsfUS0BDJP9y6RykSgeWVUfSkN/2dChywnsrmKVyUg==}
+  /electron-to-chromium@1.4.352:
+    resolution: {integrity: sha512-ikFUEyu5/q+wJpMOxWxTaEVk2M1qKqTGKKyfJmod1CPZxKfYnxVS41/GCBQg21ItBpZybyN8sNpRqCUGm+Zc4Q==}
     dev: true
 
   /esbuild@0.16.17:
@@ -919,7 +919,7 @@ packages:
     dependencies:
       '@babel/core': 7.21.4
       '@babel/preset-typescript': 7.21.4(@babel/core@7.21.4)
-      babel-preset-solid: 1.7.1(@babel/core@7.21.4)
+      babel-preset-solid: 1.7.2(@babel/core@7.21.4)
       merge-anything: 5.1.4
       solid-js: 1.6.10
       solid-refresh: 0.4.3(solid-js@1.6.10)
