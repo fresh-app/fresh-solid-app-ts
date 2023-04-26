@@ -626,7 +626,7 @@ packages:
     hasBin: true
     dependencies:
       caniuse-lite: 1.0.30001481
-      electron-to-chromium: 1.4.369
+      electron-to-chromium: 1.4.372
       node-releases: 2.0.10
       update-browserslist-db: 1.0.11(browserslist@4.21.5)
     dev: true
@@ -673,8 +673,8 @@ packages:
       ms: 2.1.2
     dev: true
 
-  /electron-to-chromium@1.4.369:
-    resolution: {integrity: sha512-LfxbHXdA/S+qyoTEA4EbhxGjrxx7WK2h6yb5K2v0UCOufUKX+VZaHbl3svlzZfv9sGseym/g3Ne4DpsgRULmqg==}
+  /electron-to-chromium@1.4.372:
+    resolution: {integrity: sha512-MrlFq/j+TYHOjeWsWGYfzevc25HNeJdsF6qaLFrqBTRWZQtWkb1myq/Q2veLWezVaa5OcSZ99CFwTT4aF4Mung==}
     dev: true
 
   /esbuild@0.16.17:
@@ -788,8 +788,8 @@ packages:
       yallist: 3.1.1
     dev: true
 
-  /merge-anything@5.1.4:
-    resolution: {integrity: sha512-7PWKwGOs5WWcpw+/OvbiFiAvEP6bv/QHiicigpqMGKIqPPAtGhBLR8LFJW+Zu6m9TXiR/a8+AiPlGG0ko1ruoQ==}
+  /merge-anything@5.1.5:
+    resolution: {integrity: sha512-9lquMsJxgaef2BXYUy8VnqHmuLYaEiGd7SULqOTuDFA9Lw6g6Hmdsblc6+yqshdJOQKkn9I106+3D5mnQMstvg==}
     engines: {node: '>=12.13'}
     dependencies:
       is-what: 4.1.8
@@ -916,7 +916,7 @@ packages:
       '@babel/core': 7.21.4
       '@babel/preset-typescript': 7.21.4(@babel/core@7.21.4)
       babel-preset-solid: 1.7.3(@babel/core@7.21.4)
-      merge-anything: 5.1.4
+      merge-anything: 5.1.5
       solid-js: 1.6.10
       solid-refresh: 0.4.3(solid-js@1.6.10)
       vite: 4.1.1
