@@ -628,7 +628,7 @@ packages:
     dependencies:
       caniuse-lite: 1.0.30001488
       electron-to-chromium: 1.4.402
-      node-releases: 2.0.10
+      node-releases: 2.0.11
       update-browserslist-db: 1.0.11(browserslist@4.21.5)
     dev: true
 
@@ -762,8 +762,8 @@ packages:
       has: 1.0.3
     dev: true
 
-  /is-what@4.1.9:
-    resolution: {integrity: sha512-I3FU0rkVvwhgLLEs6iITwZ/JaLXe7tQcHyzupXky8jigt1vu4KM0UOqDr963j36JRvJ835EATVIm6MnGz/i1/g==}
+  /is-what@4.1.10:
+    resolution: {integrity: sha512-JBy26nXqBUwzTfgj6T5Y/UgXSmRd+03FTq5v3P+N1cOmOtI1hz7dBn+ZfqM7c86qqWTNBEH98h3pkpmI6USnQA==}
     engines: {node: '>=12.13'}
     dev: true
 
@@ -793,7 +793,7 @@ packages:
     resolution: {integrity: sha512-0SIP3417t0sOL6/crPb6oC+ZNSMrjJeWkydlddgZVzsjQA86l8v3+f3WwvKanbsHxVF80QouJIdSh+Q249bu0g==}
     engines: {node: '>=12.13'}
     dependencies:
-      is-what: 4.1.9
+      is-what: 4.1.10
     dev: true
 
   /ms@2.1.2:
@@ -806,8 +806,8 @@ packages:
     hasBin: true
     dev: true
 
-  /node-releases@2.0.10:
-    resolution: {integrity: sha512-5GFldHPXVG/YZmFzJvKK2zDSzPKhEp0+ZR5SVaoSag9fsL5YgHbUHDfnG5494ISANDcK4KwPXAx2xqVEydmd7w==}
+  /node-releases@2.0.11:
+    resolution: {integrity: sha512-+M0PwXeU80kRohZ3aT4J/OnR+l9/KD2nVLNNoRgFtnf+umQVFdGBAO2N8+nCnEi0xlh/Wk3zOGC+vNNx+uM79Q==}
     dev: true
 
   /path-parse@1.0.7:
