@@ -832,7 +832,7 @@ packages:
     hasBin: true
     dependencies:
       caniuse-lite: 1.0.30001515
-      electron-to-chromium: 1.4.458
+      electron-to-chromium: 1.4.460
       node-releases: 2.0.13
       update-browserslist-db: 1.0.11(browserslist@4.21.9)
     dev: true
@@ -879,8 +879,8 @@ packages:
       ms: 2.1.2
     dev: true
 
-  /electron-to-chromium@1.4.458:
-    resolution: {integrity: sha512-fYaH2f9dlJ/W3EV7wpRgzAoE85UwCUFeJIiL24PCRtvzdXJNy3AZdS/0zLqw5Omnp9GSR/hApMUQjacW2nfgsw==}
+  /electron-to-chromium@1.4.460:
+    resolution: {integrity: sha512-kKiHnbrHME7z8E6AYaw0ehyxY5+hdaRmeUbjBO22LZMdqTYCO29EvF0T1cQ3pJ1RN5fyMcHl1Lmcsdt9WWJpJQ==}
     dev: true
 
   /esbuild@0.17.19:
@@ -1002,8 +1002,8 @@ packages:
     resolution: {integrity: sha512-1fygroTLlHu66zi26VoTDv8yRgm0Fccecssto+MhsZ0D/DGW2sm8E8AjW7NU5VVTRt5GxbeZ5qBuJr+HyLYkjQ==}
     dev: true
 
-  /postcss@8.4.25:
-    resolution: {integrity: sha512-7taJ/8t2av0Z+sQEvNzCkpDynl0tX3uJMCODi6nT3PfASC7dYCWV9aQ+uiCf+KBD4SEFcu+GvJdGdwzQ6OSjCw==}
+  /postcss@8.4.26:
+    resolution: {integrity: sha512-jrXHFF8iTloAenySjM/ob3gSj7pCu0Ji49hnjqzsgSRa50hkWCKD0HQ+gMNJkW38jBI68MpAAg7ZWwHwX8NMMw==}
     engines: {node: ^10 || ^12 || >=14}
     dependencies:
       nanoid: 3.3.6
@@ -1156,7 +1156,7 @@ packages:
         optional: true
     dependencies:
       esbuild: 0.17.19
-      postcss: 8.4.25
+      postcss: 8.4.26
       rollup: 3.26.2
     optionalDependencies:
       fsevents: 2.3.2
