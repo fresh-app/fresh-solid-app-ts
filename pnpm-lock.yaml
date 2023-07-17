@@ -604,7 +604,7 @@ packages:
       '@solid-primitives/static-store': 0.0.2(solid-js@1.7.6)
       '@solid-primitives/utils': 6.2.0(solid-js@1.7.6)
       solid-js: 1.7.6
-      type-fest: 3.13.0
+      type-fest: 3.13.1
     dev: true
 
   /@solid-devtools/shared@0.12.0(solid-js@1.7.6):
@@ -1085,8 +1085,8 @@ packages:
     engines: {node: '>=4'}
     dev: true
 
-  /type-fest@3.13.0:
-    resolution: {integrity: sha512-Gur3yQGM9qiLNs0KPP7LPgeRbio2QTt4xXouobMCarR0/wyW3F+F/+OWwshg3NG0Adon7uQfSZBpB46NfhoF1A==}
+  /type-fest@3.13.1:
+    resolution: {integrity: sha512-tLq3bSNx+xSpwvAJnzrK0Ep5CLNWjvFTOp71URMaAEWBfRb9nnJiBoUe0tF8bI4ZFO3omgBR6NvnbzVUT3Ly4g==}
     engines: {node: '>=14.16'}
     dev: true
 
