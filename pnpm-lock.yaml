@@ -14,16 +14,16 @@ importers:
     devDependencies:
       solid-devtools:
         specifier: ^0.29.2
-        version: 0.29.3(solid-js@1.8.22)(vite@5.4.2)
+        version: 0.29.3(solid-js@1.8.22)(vite@5.4.3)
       typescript:
         specifier: ^5.3.3
         version: 5.5.4
       vite:
         specifier: ^5.0.11
-        version: 5.4.2
+        version: 5.4.3
       vite-plugin-solid:
         specifier: ^2.8.2
-        version: 2.10.2(solid-js@1.8.22)(vite@5.4.2)
+        version: 2.10.2(solid-js@1.8.22)(vite@5.4.3)
 
 packages:
 
@@ -661,8 +661,8 @@ packages:
       '@testing-library/jest-dom':
         optional: true
 
-  vite@5.4.2:
-    resolution: {integrity: sha512-dDrQTRHp5C1fTFzcSaMxjk6vdpKvT+2/mIdE07Gw2ykehT49O0z/VHS3zZ8iV/Gh8BJJKHWOe5RjaNrW5xf/GA==}
+  vite@5.4.3:
+    resolution: {integrity: sha512-IH+nl64eq9lJjFqU+/yrRnrHPVTlgy42/+IzbOdaFDVlyLgI/wDlf+FCobXLX1cT0X5+7LMyH1mIy2xJdLfo8Q==}
     engines: {node: ^18.0.0 || >=20.0.0}
     hasBin: true
     peerDependencies:
@@ -1260,7 +1260,7 @@ snapshots:
 
   seroval@1.1.1: {}
 
-  solid-devtools@0.29.3(solid-js@1.8.22)(vite@5.4.2):
+  solid-devtools@0.29.3(solid-js@1.8.22)(vite@5.4.3):
     dependencies:
       '@babel/core': 7.25.2
       '@babel/plugin-syntax-typescript': 7.25.4(@babel/core@7.25.2)
@@ -1269,7 +1269,7 @@ snapshots:
       '@solid-devtools/shared': 0.13.2(solid-js@1.8.22)
       solid-js: 1.8.22
     optionalDependencies:
-      vite: 5.4.2
+      vite: 5.4.3
     transitivePeerDependencies:
       - supports-color
 
@@ -1306,7 +1306,7 @@ snapshots:
 
   validate-html-nesting@1.2.2: {}
 
-  vite-plugin-solid@2.10.2(solid-js@1.8.22)(vite@5.4.2):
+  vite-plugin-solid@2.10.2(solid-js@1.8.22)(vite@5.4.3):
     dependencies:
       '@babel/core': 7.25.2
       '@types/babel__core': 7.20.5
@@ -1314,12 +1314,12 @@ snapshots:
       merge-anything: 5.1.7
       solid-js: 1.8.22
       solid-refresh: 0.6.3(solid-js@1.8.22)
-      vite: 5.4.2
-      vitefu: 0.2.5(vite@5.4.2)
+      vite: 5.4.3
+      vitefu: 0.2.5(vite@5.4.3)
     transitivePeerDependencies:
       - supports-color
 
-  vite@5.4.2:
+  vite@5.4.3:
     dependencies:
       esbuild: 0.21.5
       postcss: 8.4.44
@@ -1327,8 +1327,8 @@ snapshots:
     optionalDependencies:
       fsevents: 2.3.3
 
-  vitefu@0.2.5(vite@5.4.2):
+  vitefu@0.2.5(vite@5.4.3):
     optionalDependencies:
-      vite: 5.4.2
+      vite: 5.4.3
 
   yallist@3.1.1: {}
