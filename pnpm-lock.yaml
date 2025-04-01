@@ -17,10 +17,10 @@ importers:
         version: 5.8.2
       vite:
         specifier: ^6.0.0
-        version: 6.2.3
+        version: 6.2.4
       vite-plugin-solid:
         specifier: ^2.11.6
-        version: 2.11.6(solid-js@1.9.5)(vite@6.2.3)
+        version: 2.11.6(solid-js@1.9.5)(vite@6.2.4)
 
 packages:
 
@@ -553,8 +553,8 @@ packages:
       '@testing-library/jest-dom':
         optional: true
 
-  vite@6.2.3:
-    resolution: {integrity: sha512-IzwM54g4y9JA/xAeBPNaDXiBF8Jsgl3VBQ2YQ/wOY6fyW3xMdSoltIV3Bo59DErdqdE6RxUfv8W69DvUorE4Eg==}
+  vite@6.2.4:
+    resolution: {integrity: sha512-veHMSew8CcRzhL5o8ONjy8gkfmFJAd5Ac16oxBUjlwgX3Gq2Wqr+qNC3TjPIpy7TPV/KporLga5GT9HqdrCizw==}
     engines: {node: ^18.0.0 || ^20.0.0 || >=22.0.0}
     hasBin: true
     peerDependencies:
@@ -1065,7 +1065,7 @@ snapshots:
 
   validate-html-nesting@1.2.2: {}
 
-  vite-plugin-solid@2.11.6(solid-js@1.9.5)(vite@6.2.3):
+  vite-plugin-solid@2.11.6(solid-js@1.9.5)(vite@6.2.4):
     dependencies:
       '@babel/core': 7.26.10
       '@types/babel__core': 7.20.5
@@ -1073,12 +1073,12 @@ snapshots:
       merge-anything: 5.1.7
       solid-js: 1.9.5
       solid-refresh: 0.6.3(solid-js@1.9.5)
-      vite: 6.2.3
-      vitefu: 1.0.6(vite@6.2.3)
+      vite: 6.2.4
+      vitefu: 1.0.6(vite@6.2.4)
     transitivePeerDependencies:
       - supports-color
 
-  vite@6.2.3:
+  vite@6.2.4:
     dependencies:
       esbuild: 0.25.2
       postcss: 8.5.3
@@ -1086,8 +1086,8 @@ snapshots:
     optionalDependencies:
       fsevents: 2.3.3
 
-  vitefu@1.0.6(vite@6.2.3):
+  vitefu@1.0.6(vite@6.2.4):
     optionalDependencies:
-      vite: 6.2.3
+      vite: 6.2.4
 
   yallist@3.1.1: {}
