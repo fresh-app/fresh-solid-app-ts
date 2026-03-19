@@ -549,8 +549,8 @@ packages:
       supports-color:
         optional: true
 
-  electron-to-chromium@1.5.313:
-    resolution: {integrity: sha512-QBMrTWEf00GXZmJyx2lbYD45jpI3TUFnNIzJ5BBc8piGUDwMPa1GV6HJWTZVvY/eiN3fSopl7NRbgGp9sZ9LTA==}
+  electron-to-chromium@1.5.321:
+    resolution: {integrity: sha512-L2C7Q279W2D/J4PLZLk7sebOILDSWos7bMsMNN06rK482umHUrh/3lM8G7IlHFOYip2oAg5nha1rCMxr/rs6ZQ==}
 
   entities@6.0.1:
     resolution: {integrity: sha512-aN97NXWF6AWBTahfVOIrB/NShkzi5H7F9r1s9mD3cDj4Ko5f2qhhVoYMibXF7GlLveb/D2ioWay8lxI97Ven3g==}
@@ -1179,7 +1179,7 @@ snapshots:
     dependencies:
       baseline-browser-mapping: 2.10.8
       caniuse-lite: 1.0.30001780
-      electron-to-chromium: 1.5.313
+      electron-to-chromium: 1.5.321
       node-releases: 2.0.36
       update-browserslist-db: 1.2.3(browserslist@4.28.1)
 
@@ -1193,7 +1193,7 @@ snapshots:
     dependencies:
       ms: 2.1.3
 
-  electron-to-chromium@1.5.313: {}
+  electron-to-chromium@1.5.321: {}
 
   entities@6.0.1: {}
 
